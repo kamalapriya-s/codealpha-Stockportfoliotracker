@@ -29,5 +29,5 @@ while True:
     else:
         print("Invalid stock symbol. Please try again.")
 
-print("\nTotal Investment Value: $", total_investment)
+print(f"\nTotal Investment Value: ${total_investment}")
 print("Thank you for using Stock Portfolio Tracker!")
